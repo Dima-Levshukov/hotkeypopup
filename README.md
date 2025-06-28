@@ -18,7 +18,7 @@ To run the dotnet Microsoft tool will need to be installed. If not already on pc
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.411-windows-x64-installer
 
 Then to use the app you need to download the zip file(editPopUpApp.zip) for the app(which already contains all the files in the repository). Then run the bat file (build_fresh.bat) which will create the app in Where_The_Zip_Was_Extracted\HotkeyPopUp\bin\Release\net6.0-windows\win-x64\publish\(there will be a folder with the name of the date)
-Just run the .exe file in that folder.
+Just run the HotKeyPopUp.exe file in that folder.
 
 If you want to make any changes to the app you can edit the files. Then run the build_fresh.bat again which will create a new app for you with the changes.
 
